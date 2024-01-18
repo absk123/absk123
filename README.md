@@ -1,8 +1,7 @@
-
-https://www.atlassian.com/blog/wp-content/uploads/devopsloop_products.png
+[![MasterHead](https://www.atlassian.com/blog/wp-content/uploads/devopsloop_products.png)]
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">"Passionate about new technologies | Currently immersed in DevOps and Cloud ☁️🚀"</h3>
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absk123&label=Profile%20views&color=0e75b6&style=flat" alt="absk123" /> </p>
 
