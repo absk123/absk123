@@ -1,7 +1,7 @@
 ![MasterHead](https://formacinc.com/wp-content/uploads/2018/08/devops.jpg)
 <h1 align="center">Hello 👋, Welcome to The ItStands</h1>
 <h3 align="center">"Passionate about new technologies | Currently immersed in DevOps and Cloud ☁️🚀"</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absk123&label=Profile%20views&color=0e75b6&style=flat" alt="absk123" /> </p>
 
