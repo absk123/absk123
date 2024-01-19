@@ -1,4 +1,4 @@
-![MasterHead](https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-cs-way.gif?width=1322&name=devops-cs-way.gif)
+![MasterHead](https://thecloudlegion.com/images/devops.gif)
 <h1 align="center">Hello 👋, Welcome to FinePrint</h1>
 <h3 align="center">"Passionate about new technologies | Currently immersed in DevOps and Cloud ☁️🚀"</h3>
 <img align="right" alt="Coding" width="400" src="">
