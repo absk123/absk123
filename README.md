@@ -1,13 +1,11 @@
 ![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif)
 <h1 align="center">Hello 👋, Welcome to FinePrint</h1>
-<h3 align="center">"Passionate about new technologies | Currently immersed in DevOps and Cloud ☁️🚀"</h3>
+<h3 align="center">"Passionate about new technologies ☁️🚀"</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absk123&label=Profile%20views&color=0e75b6&style=flat" alt="absk123" /> </p>
 
-- 🔭 I’m currently working on **Infrastructure automation**
-
-- 🌱 I’m currently learning **Latest Terraform features**
+- 🔭 I’m currently working on **DevOps**
 
 - 📫 How to reach me **absk.sing@outlook.com**
 
