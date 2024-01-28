@@ -1,5 +1,5 @@
 ![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif)
-<h1 align="center">Hello 👋, Welcome to FinePrint</h1>
+<h1 align="center">Hello 👋, Fellow </h1>
 <h3 align="center">"Passionate about new technologies ☁️🚀"</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
