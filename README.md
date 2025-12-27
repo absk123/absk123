@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=absk123&show_icons=true&locale=en" alt="absk123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=absk123&" alt="absk123" /></p>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="abhishek-singh-bhadoriya-906856160" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/abhishek-singh-bhadoriya-906856160?trk=profile-badge">Abhishek Singh Bhadoriya</a></div>
+              
