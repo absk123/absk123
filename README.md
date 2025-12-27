@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absk123&label=Profile%20views&color=0e75b6&style=flat" alt="absk123" /> </p>
 
-- 🔭 I’m currently working on **DevOps**
+- 🔭 I’m currently working as a **Sr. DevOps Engineer**
 
 - 📫 How to reach me **absk.sing@outlook.com**
 
